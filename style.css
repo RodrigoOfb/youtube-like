@@ -91,6 +91,7 @@ header p {
   background-color: black;
   margin-top: 20px;
   margin-bottom: 150px;
+  border-radius: 18px;
 }
 .card-1 img {
   width: 100%;
