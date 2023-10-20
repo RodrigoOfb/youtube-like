@@ -19,7 +19,7 @@ header {
   align-items: center;
 }
 .logo-header {
-  width: 150px;
+  width: 100px;
   margin-left: 20px;
 }
 header p {
@@ -42,6 +42,7 @@ header p {
   margin-top: 20px;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 .card-initial {
   width: 95%;
@@ -53,6 +54,7 @@ header p {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 80px;
 }
 .card-initial img {
   width: 250px;
@@ -83,6 +85,7 @@ header p {
   width: 95%;
   background-color: black;
   margin-top: 20px;
+  margin-bottom: 80px;
 }
 .card-1 img {
   width: 100%;
