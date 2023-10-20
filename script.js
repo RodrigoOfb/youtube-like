@@ -2,7 +2,7 @@ function animateSaldo() {
   const saldoElement = document.getElementById("saldo");
   const finalSaldo = 25.42;
   let currentSaldo = 18.27;
-  const animationSpeed = 0.1; // Adjust this value to control the animation speed.
+  const animationSpeed = 0.05; // Adjust this value to control the animation speed.
 
   function updateSaldo() {
     if (currentSaldo < finalSaldo) {
